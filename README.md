@@ -33,7 +33,7 @@ The dashboard provides insights into:
 ## Dashboard Preview
 
 ### Overview Page
-![Overview](Screenshots/overview.png)
+![Overview](image.png)
 
 ### Inventory Analysis
 ![Inventory](Screenshots/inventory.png)
