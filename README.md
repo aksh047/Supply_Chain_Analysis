@@ -35,9 +35,6 @@ The dashboard provides insights into:
 ### Overview Page
 ![Overview](image.png)
 
-### Inventory Analysis
-![Inventory](Screenshots/inventory.png)
-
 ---
 
 ## KPIs Included
